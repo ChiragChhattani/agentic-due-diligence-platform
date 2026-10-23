@@ -333,4 +333,4 @@ Run the suite: `pytest -q -m "not integration"`. See
 
 ## License
 
-MIT © Laaksh Parikh
+MIT © Chirag Chhattani
